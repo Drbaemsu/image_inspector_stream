@@ -3,7 +3,8 @@ aiohttp
 playwright
 pillow
 beautifulsoup4
-opencv-python-headless
+opencv-python
 numpy
-gradio
 pandas
+streamlit
+nest_asyncio
