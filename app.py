@@ -10,6 +10,7 @@ import cv2
 import numpy as np
 import pandas as pd
 import streamlit as st
+import re
 
 # 이미지 저장 경로 설정
 images_folder = 'naver_map_images'
