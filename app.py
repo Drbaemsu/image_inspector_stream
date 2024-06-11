@@ -2,7 +2,7 @@ import nest_asyncio
 nest_asyncio.apply()
 
 import playwright
-playwright.install()
+#playwright.install()
 
 import os
 from playwright.async_api import async_playwright
